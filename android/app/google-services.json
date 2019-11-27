@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825557154055",
+    "firebase_url": "https://chat-be580.firebaseio.com",
+    "project_id": "chat-be580",
+    "storage_bucket": "chat-be580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825557154055:android:d1da01a16dca8c8f35ada2",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825557154055-99unovm2b8s46f62p42u5clibu9fbjr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcopxlaK9IXqP-cOyo_j_acerSR59JEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825557154055-99unovm2b8s46f62p42u5clibu9fbjr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
